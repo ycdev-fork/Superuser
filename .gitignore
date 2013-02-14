@@ -1,1 +1,11 @@
 .DS_Store
+
+# For eclipse files
+.classpath
+.project
+bin
+gen
+
+# For ant files
+local.properties
+
